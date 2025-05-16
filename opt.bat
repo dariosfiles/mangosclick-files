@@ -2,10 +2,8 @@ cls
 @echo off
 title mangos.click - [ optimizer ]
 
-:: Beep sound using PowerShell
 powershell -c "[console]::beep(800,300)"
 
-:: Intro screen
 echo ============================
 echo   mangos.click optimizer
 echo ============================
